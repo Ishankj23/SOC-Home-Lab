@@ -11,11 +11,11 @@ The lab is designed to replicate a small enterprise environment where Windows an
 
 🎯 Objectives
 Build a functional SOC environment from scratch\
-Learn Security Information and Event Management (SIEM) concepts
-Monitor Windows and Linux security events
-Analyze Sysmon telemetry
-Detect common attack techniques
-Investigate security alerts
-Map detections to the MITRE ATT&CK Framework
-Improve incident response and threat hunting skills
-Document investigations in a professional manner
+Learn Security Information and Event Management (SIEM) concepts\
+Monitor Windows and Linux security events\
+Analyze Sysmon telemetry\
+Detect common attack techniques\
+Investigate security alerts\
+Map detections to the MITRE ATT&CK Framework\
+Improve incident response and threat hunting skills\
+Document investigations in a professional manner\
