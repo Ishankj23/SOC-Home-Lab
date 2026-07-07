@@ -10,12 +10,12 @@ This project documents the design, implementation, and continuous improvement of
 The lab is designed to replicate a small enterprise environment where Windows and Linux endpoints generate security events that are collected, analyzed, and visualized through Wazuh.
 
 🎯 Objectives
-Build a functional SOC environment from scratch\
-Learn Security Information and Event Management (SIEM) concepts\
-Monitor Windows and Linux security events\
-Analyze Sysmon telemetry\
-Detect common attack techniques\
-Investigate security alerts\
-Map detections to the MITRE ATT&CK Framework\
-Improve incident response and threat hunting skills\
-Document investigations in a professional manner\
+1. Build a functional SOC environment from scratch\
+2. Learn Security Information and Event Management (SIEM) concepts\
+3. Monitor Windows and Linux security events\
+4. Analyze Sysmon telemetry\
+5. Detect common attack techniques\
+6. Investigate security alerts\
+7. Map detections to the MITRE ATT&CK Framework\
+8. Improve incident response and threat hunting skills\
+9. Document investigations in a professional manner
