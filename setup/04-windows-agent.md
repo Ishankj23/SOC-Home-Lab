@@ -73,7 +73,7 @@ Reply from 10.10.10.5
 
 Download the latest Windows agent from:
 
-https://packages.wazuh.com/
+[https://packages.wazuh.com](https://documentation.wazuh.com/current/installation-guide/wazuh-agent/wazuh-agent-package-windows.html)/
 
 or directly from the Wazuh Dashboard using the Deploy New Agent wizard.
 
