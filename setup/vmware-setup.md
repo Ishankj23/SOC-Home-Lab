@@ -35,7 +35,7 @@ The objective of this lab is to simulate an enterprise Security Operations Cente
 Version
 
 ```
-VMware Workstation Pro 25 H1
+VMware Workstation Pro 25 H2u1
 ```
 
 ### Why VMware?
